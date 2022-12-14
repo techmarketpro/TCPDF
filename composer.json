@@ -30,7 +30,7 @@
             "include",
             "tcpdi.php",
             "tcpdf.php",
-            "tcpdf_tpl.php",
+            "fpdf_tpl.php",
             "tcpdi_parser.php",
             "tcpdf_parser.php",
             "tcpdf_import.php",
