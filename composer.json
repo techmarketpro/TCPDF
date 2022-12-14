@@ -28,7 +28,10 @@
         "classmap": [
             "config",
             "include",
+            "tcpdi.php",
             "tcpdf.php",
+            "tcpdf_tpl.php",
+            "tcpdi_parser.php",
             "tcpdf_parser.php",
             "tcpdf_import.php",
             "tcpdf_barcodes_1d.php",
